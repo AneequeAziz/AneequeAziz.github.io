@@ -1,4 +1,15 @@
 body{
+    background-color: #000;
     background-color: black;
     color: #777;
+}
+h1,h2,strong{
+    color: #fff;
+}
+h6{
+    color: darkolivegreen;
+}
+p{
+color: #666;
+word-spacing: 1px;
 }
